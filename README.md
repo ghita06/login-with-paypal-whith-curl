@@ -1,6 +1,7 @@
 # login-with-paypal-whith-curl
 Simple paypal login without PHP SDK
-instal: copy or clone this three files
-Create in developer.paypal an app
-Replace Client id, secret and return url in both files, curl.php and login.php
-Worked with sandbox, for live you ned make some changes
+instal:
+1 copy or clone this three files
+2 Create in developer.paypal an app
+3 Replace Client id, secret and return url in both files, curl.php and login.php
+4 Worked with sandbox, for live you need make some changes
