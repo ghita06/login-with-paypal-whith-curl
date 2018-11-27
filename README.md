@@ -1,4 +1,4 @@
-# login-with-paypal-whith-curl
+# login-with-paypal-with-curl
 Simple paypal login without PHP SDK
 instal:
 1 copy or clone this three files
